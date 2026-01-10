@@ -13,7 +13,8 @@ A robust Python utility designed for tabletop RPG systems to handle character cr
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/aKmsdfhjb/python-rpg_character-generator.git](https://github.com/aKmsdfhjb/python-rpg_character-generator.git)
+   git clone (https://github.com/aKmsdfhjb/python-rpg_character-generator.git)
+   
 Run the script: You can import the function into your own project:
 
 Python
